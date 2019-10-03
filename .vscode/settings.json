@@ -1,0 +1,29 @@
+{
+  "cSpell.words": [
+    "airflow",
+    "deps",
+    "fernet",
+    "healthcheck",
+    "key",
+    "webserver"
+  ],
+  "cSpell.ignoreWords": [
+    "dpr",
+    "e",
+    "erfv",
+    "f",
+    "gf",
+    "j",
+    "js",
+    "npd",
+    "o",
+    "pyq",
+    "r",
+    "tn",
+    "to",
+    "uba",
+    "v",
+    "ywd",
+    "z"
+  ]
+}
